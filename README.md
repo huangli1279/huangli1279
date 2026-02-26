@@ -51,8 +51,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=huangli1279&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangli1279&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huangli1279&theme=github" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huangli1279&theme=github" alt="Top languages" />
 </p>
 
 ## Connect
