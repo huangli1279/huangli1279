@@ -26,6 +26,11 @@
 
 ## Featured Projects | 精选项目
 
+### [bestcityinchina.site](https://bestcityinchina.site) — [city-in-china-to-visit](https://github.com/huangli1279/city-in-china-to-visit)
+EN: Travel personality quiz matching foreign visitors to their ideal Chinese city. 4 languages, static-deployed on Cloudflare Pages.  
+中: 面向外国游客的中国城市旅行匹配测试，支持英/中/日/韩四语言，部署于 Cloudflare Pages。  
+`TypeScript` `Next.js` `next-intl` `Cloudflare Pages`
+
 ### [linkfeed](https://github.com/huangli1279/linkfeed)
 EN: Chrome extension that injects current-page URLs into AI chat tools for faster online research.  
 中: 一键将当前页面 URL 注入 AI 聊天工具，加速在线资料检索与学习流程。  
@@ -56,5 +61,6 @@ EN: Python SDK for Apache Linkis with sync/async execution support.
 ## Connect | 联系方式
 
 - GitHub: [@huangli1279](https://github.com/huangli1279)
+- Site: [bestcityinchina.site](https://bestcityinchina.site)
 - EN: Open to collaboration on AI product and tooling projects.
 - 中: 欢迎交流 AI 产品与开发工具相关合作。
