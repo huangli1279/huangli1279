@@ -61,6 +61,5 @@ EN: Python SDK for Apache Linkis with sync/async execution support.
 ## Connect | 联系方式
 
 - GitHub: [@huangli1279](https://github.com/huangli1279)
-- Site: [bestcityinchina.site](https://bestcityinchina.site)
 - EN: Open to collaboration on AI product and tooling projects.
 - 中: 欢迎交流 AI 产品与开发工具相关合作。
