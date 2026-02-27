@@ -1,13 +1,13 @@
 <h1 align="center">roger</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1100&center=true&vCenter=true&width=860&lines=Building+AI-powered+products+with+great+UX;TypeScript+%7C+Next.js+%7C+Python;Build+Fast%2C+Learn+Fast%2C+Ship+Fast" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1100&center=true&vCenter=true&width=860&lines=Builder+%E2%80%94+I+ship+things+that+work;Turning+ideas+into+AI-powered+products;Build+Fast%2C+Learn+Fast%2C+Ship+Fast" alt="Typing intro" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Shenzhen-0A66C2?style=for-the-badge" alt="Location" />
   <img src="https://img.shields.io/badge/Focus-AI%20Products-0F766E?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20Python%20%7C%20Next.js-1F2937?style=for-the-badge" alt="Stack" />
+  <img src="https://img.shields.io/badge/Mode-Builder-1F2937?style=for-the-badge" alt="Mode" />
 </p>
 
 <p align="center">
@@ -19,10 +19,10 @@
 
 ## About Me | 关于我
 
-- EN: I build practical AI products with strong UX and rapid iteration.
-- 中: 我专注于打造实用型 AI 产品，强调用户体验与快速迭代。
-- EN: I am interested in browser extensions, developer tooling, and AI-assisted workflows.
-- 中: 我关注浏览器插件、开发者工具，以及 AI 辅助工作流。
+- EN: I'm a builder — I take ideas from zero to shipped, fast.
+- 中: 我是一个 builder，把想法快速变成真实可用的产品。
+- EN: I build AI-powered products with strong UX, focused on real-world usefulness.
+- 中: 专注打造有实际价值的 AI 产品，注重用户体验与快速落地。
 
 ## Featured Projects | 精选项目
 
